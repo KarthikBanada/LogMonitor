@@ -3,8 +3,6 @@
 #
 # logmonitor.py
 #
-# Yanming Xiao
-# yanming_xiao@yahoo.com
 #
 # Run mode:
 #   logmonitor.py {logmonitor.ini}
